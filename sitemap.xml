@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://kouhu1.github.io/hoiho/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://kouhu1.github.io/hoiho/</loc>
+</url>
+<url>
+<loc>https://kouhu1.github.io/hoiho/city-of-london.html</loc>
+<lastmod>2023-02-23T22:21:44+00:00</lastmod>
+<image:image>
+<image:loc>https://kouhu1.github.io/hoiho/media\posts\2/buildings-g5e6013f40_640-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://kouhu1.github.io/hoiho/st-paul-cathedral.html</loc>
+<lastmod>2023-02-23T22:17:29+00:00</lastmod>
+<image:image>
+<image:loc>https://kouhu1.github.io/hoiho/media\posts\1/london-g2be192357_640.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
